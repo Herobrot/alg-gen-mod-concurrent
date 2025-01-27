@@ -1,0 +1,7 @@
+2025-01-26 19:03:50,254 - __main__ - INFO - Iniciando aplicación
+2025-01-26 19:03:50,316 - gui.app - INFO - Inicializando aplicación
+2025-01-26 19:03:50,350 - gui.app - INFO - Aplicación inicializada correctamente
+2025-01-26 19:03:50,350 - __main__ - INFO - Aplicación configurada, iniciando mainloop
+2025-01-26 19:03:50,350 - gui.app - INFO - Iniciando mainloop
+2025-01-26 19:09:34,780 - gui.app - INFO - Finalizando mainloop
+2025-01-26 19:09:34,780 - __main__ - INFO - Aplicación finalizada
